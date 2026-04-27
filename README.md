@@ -12,4 +12,4 @@ Para regenerar el sitio local:
 node scripts/build-study-pages.js
 ```
 
-GitHub Pages publica el contenido de `build/`.
+GitHub Pages publica el contenido estático de `build/` desde la rama `gh-pages`.
